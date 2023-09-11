@@ -1,5 +1,5 @@
 # Menu
-Programa que apresenta o menu de opções a seguir, que permite ao usuário escolher a
+Programa em java que apresenta o menu de opções a seguir, que permite ao usuário escolher a
 opção desejada, ler os dados necessários para executar a operação e mostrar o resultado.
 
 Menu de opções:
